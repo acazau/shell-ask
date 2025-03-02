@@ -121,13 +121,9 @@ export const MODEL_MAP: {
       realId: "gpt-4o",
     },
     {
-      id: "copilot-o1-mini",
-      realId: "o1-mini",
-    },
-    {
-      id: "copilot-o1-preview",
-      realId: "o1-preview",
-    },
+      id: "copilot-o1",
+      realId: "o1",
+    },    
     {
       id: "copilot-o3-mini",
       realId: "o3-mini",
@@ -136,6 +132,18 @@ export const MODEL_MAP: {
       id: "copilot-claude-3.5-sonnet",
       realId: "claude-3.5-sonnet",
     },
+    {
+      id: "copilot-claude-3.7-sonnet",
+      realId: "claude-3.7-sonnet",
+    },
+    {
+      id: "copilot-claude-3.7-sonnet-thought",
+      realId: "claude-3.7-sonnet-thought",
+    },
+    {
+      id: "copilot-gemini-2.0-flash",
+      realId: "gemini-2.0-flash-001",
+    },    
   ],
 }
 
